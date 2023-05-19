@@ -13,6 +13,7 @@
     "postcss": "^8.4.23",
     "sass": "^1.62.1",
     "typescript": "^5.0.2",
-    "vite": "^4.3.2"
+    "vite": "^4.3.2",
+    "vite-plugin-pug": "^0.3.2"
   }
 }
